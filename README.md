@@ -1,5 +1,6 @@
 # luaFilesUpdate
 FilesUpdate
+github排版有问题,请raw阅读
 
 项目简介
   这是一个基于cocos2d-x 3.x lua版的文件更新
