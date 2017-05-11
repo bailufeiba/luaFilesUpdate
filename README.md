@@ -121,3 +121,5 @@ UpdateSystem.lua 简介
 		"url":"" 指向服务器文件的下载地址的开头,比如"test.update.com/"
 		
 		https://github.com/bailufeiba/GetFilesMD5
+
+如果可以的话,请保留第一行,让我装个逼 (づ￣ 3￣)づ
