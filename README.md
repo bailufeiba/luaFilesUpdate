@@ -123,3 +123,4 @@ UpdateSystem.lua 简介
 		https://github.com/bailufeiba/GetFilesMD5
 
 如果可以的话,请保留第一行,让我装个逼 (づ￣ 3￣)づ
+如有问题QQ联系:2686885181
