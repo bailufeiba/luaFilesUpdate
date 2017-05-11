@@ -4,6 +4,10 @@ github排版有问题,请raw阅读
 
 项目简介
   这是一个基于cocos2d-x 3.x lua版的文件更新
+  
+  请把读写目录第一个加入到收索目录!
+  FileUtils::getInstance()->addSearchPath(FileUtils::getInstance()->getWritablePath());
+  
 
 UpdateSystem.lua 简介
 	更新入口
