@@ -1,0 +1,26 @@
+{
+    "Default": {
+        "Button_Disable.png": {
+            "MD5": "FA79821349DD686F516187283BC2FB8C",
+            "size": 1111
+        },
+        "LoadingBarFile.png": {
+            "MD5": "53A230F3F1B2D64E87A742DEBFD489BD",
+            "size": 1115
+        }
+    },
+    "HelloWorld.png": {
+        "MD5": "55EA4E952BF080F300379EC26723598B",
+        "size": 37864
+    },
+    "Scenes": {
+        "NoticeMsg.csb": {
+            "MD5": "3BD06BA08A0EE1F50B323BFB95203FD6",
+            "size": 2728
+        },
+        "UpdateScene.csb": {
+            "MD5": "79E2E116DA20993F5F836C65F99D9211",
+            "size": 2036
+        }
+    }
+}
