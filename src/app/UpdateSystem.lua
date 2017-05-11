@@ -1,3 +1,4 @@
+-----author:bailufeiba 2017/5/12 2:21:11-----
 require( "app.md5" )
 local UpdateSystem = class( "UpdateSystem" )
 
